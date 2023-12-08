@@ -1,2 +1,2 @@
-# Formilario-32c
+# Formulario-32c
 repositorio del ejercicio en css
