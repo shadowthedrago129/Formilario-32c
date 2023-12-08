@@ -1,0 +1,43 @@
+body{
+background-color: rgb(219, 245, 236);
+}
+
+.imagen-i{
+    display: block;
+    margin: auto;
+    
+}
+
+.form-pagina{
+    text-align: center;
+}
+
+.caja-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boton-entrar{
+    display: block;
+    margin: auto;
+    background-color: rgb(102, 179, 102);
+    width: 200px;
+    height: 30px;    
+}
+.boton-cancelar{
+    display: block;
+    margin: auto;
+    background-color: orangered;
+    width: auto;
+    height: 30px;
+}
+
+.text-div{
+    text-align: right;
+    margin-right: 300px;
+}
+
+.otro-texto{
+    color: blue;
+}
